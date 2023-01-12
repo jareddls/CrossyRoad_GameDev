@@ -1,5 +1,5 @@
 # CROSSY ROAD - 386 GAME DESIGN
-Authors: Jared De Los Santos, Daniel Cazarez, Aditya Shah\
+Authors: Jared De Los Santos, Daniel Cazarez\
 Prerequisite to play: must be running Unreal Engine 5. This game has not been tested with earlier versions of Unreal Engine. <br />
 
 ## Where to find the game map
